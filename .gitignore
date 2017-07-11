@@ -1,1 +1,11 @@
- 谷歌Camera2源码
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.idea
+.gitignore
+app/build/
